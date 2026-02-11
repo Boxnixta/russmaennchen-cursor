@@ -8,7 +8,7 @@ export default function App() {
 <Canvas
   gl={{ 
     antialias: true, 
-    toneMapping: 0, // 0 steht für NoToneMapping (ballert mehr!)
+    toneMapping: 0, // 0 steht für NoToneMapping (ballert!)
   }}
 >
       <ambientLight intensity={0.8} />
